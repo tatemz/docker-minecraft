@@ -1,5 +1,7 @@
 # Docker Minecraft
 
+Read the [blog post](https://medium.com/@tatemz/why-i-love-docker-a-use-case-in-minecraft-b9f2a519d3ce) for a video demonstration on how I use this in Kitematic.
+
 This image is based the Kitematic image, but simply adds the following environment variables:
 
 
